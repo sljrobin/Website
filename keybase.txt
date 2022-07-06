@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sljrobin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sljrobin.org
+  * I am sljrobin (https://keybase.io/sljrobin) on keybase.
+  * I have a public key with fingerprint 1919 7E42 8C6F 68D7 D907  8771 D1CB 2281 43A1 50E9
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e0f7ffd895fd1593ae659b277708c4a1d253e64e5a42abdd2ad61e0eeda9d7100a",
+            "fingerprint": "19197e428c6f68d7d9078771d1cb228143a150e9",
+            "host": "keybase.io",
+            "key_id": "d1cb228143a150e9",
+            "kid": "0101e0f7ffd895fd1593ae659b277708c4a1d253e64e5a42abdd2ad61e0eeda9d7100a",
+            "uid": "bd24ac3fe674762a3bff2139b319e819",
+            "username": "sljrobin"
+        },
+        "service": {
+            "hostname": "sljrobin.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1457603507,
+    "expire_in": 157680000,
+    "prev": "90e1307312bd343e7c804fb701d2b7f02c8935b584fce90e0d03bf101d0c01d9",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUmtMHFUYHRZKWSwpr4DUFuxQAuV557Uzs0LtA4upCTZGESGymccdGHa7s+4u
+CyuuDZFWGwK0GMUADfgIpiYaiGVtCrVILak82kCVNBYLtUWpsRalILQEvEP0j/Gn
+98e9ud8953zfObnHwwIxQ8DYMF6z7/2DdwKG74hYwc19w9W4qMle3FyNW+H6AW0y
+dLktVlXGzTggAAGBwiqKzPGMIhMMTwnQxPAiybIs4CRaIGSSoaCJhoxAk4Ioy6Qg
+mxAJQlngZZYAQMDTcUW1l0Knw6na3UiW4AmehTTJSSbFxMmszAOWY1lCJiSRJDmC
+pgSCAZBHxDLNpTPQcKLggpmqhmroYlkf7z/w//PcFetyokzSgkQp0MTSrIkUKFFR
+SILiRYrgIUfofStc0GkXDkGEdtnKnZqo2nFfOo6qHlWCerC6k38hMjVnKeI6nJpb
+kzQbeilzux0us850ex06tBKKlr9FLIghoxwRwwOdLlWz42YCISW3qqsSNMOaAMUA
+Nh2HVQ7VCS2qjkBVDqCl94EeJMkDSFCALaQIUpQpmoKsxAFaEVmAMhFZBZASx1OM
+yHC0IkGEBjJAjlGkMpDQptt1wVfsGm5m0JxCqe5ILbUL7gonxH2hxwxbg7AAAxa8
+waD/MCzUGP7Pt+MvhmNnm8qT36lN9QxEddyuscXiSaOtZ6jrnsGyFH+W13/uXv3Y
+xpGU29vJ7VzSE48nfzuffOBMQuX5eyUt7ae9yt7FmKW1vKcnMblg9qjV97vVP7Nj
+8LPcPn9FWNTUWvuzIUmVlq605uyVmKaq2ebzgb3Z85oR6/yux3NqfERpv9SYYeux
+Rm8mc34AIeF2Q0mSw/xkZV5JZu6Wh1mrX78ckTfd6i8YXWXJkqnQwxtbGoItE0Rc
+5Pj1B1t+9J1T+zTfDXX53aKsJeMz7WC8pzanNnMloOnLUe+1+q4bZU6hoSkqxU89
+nL5aVfhGff/knPzn4pv5T50cfF3pDc1l5K3PLSxic5/W1mfZTxdF1EiNkwnxnRO7
+476ZurrSuYm9nJJqvbgWVB37XkTOJ+mdZNeL24xFjebJjPxfjsT3P2L84sJscV3i
+lf63Uw4Z9u/pf+xA02pjyP6VrqXuOl/i5pGlW/hE0SXfbyV/mOeWOwsD7+48MXYh
+yuP9cMGW1rIwMDW2s2ZmkzHOs8v0/VTv7l9fnRloay8eCe+bBfFtAjAMUnj2o0nb
+lITi+9GmByLRdnx4unfP55E/zy0H3arDpIPlN1sTjkTPDWH3g1/Lv5LWejZ+7/jH
+x1LvfrDrVGwzHTlc1HA0dGj1ec9P09eWOj4SxvpyNmQcfuulukEv7E6MmW8J6x7q
+uPzVC38B
+=t5uz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sljrobin
+
+==================================================================
+
