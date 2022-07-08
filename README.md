@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://sljrobin.org" title="sljrobin.org">sljrobin.org</a></h1>
 
-### 👋 Welcome to my little corner of the Internet!
+### 👋 Welcome to my little corner of the Internet
 This repository contains the source of my website. For a live version, feel free to go to [sljrobin.org](https://sljrobin.org) and enjoy! On the other hand, my photography portfolio is available [here](https://sljrobin.org/photography/).
 
 <p align="center">🖋️</p>
