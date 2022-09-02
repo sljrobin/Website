@@ -138,6 +138,8 @@ footer .footer-links .links .twitter a:hover { color: #1689e0; }
 
 @media screen and (max-width: 40rem) { #home-ctf .websites:first-of-type ul { margin-bottom: 0; } #home-hobbies .row:first-child { margin-bottom: 0; } #home-hobbies .row:last-child .column:last-child { margin-bottom: 0; } #home-hobbies .row .column { margin-bottom: 2rem; } #home-hobbies .row .column:first-child { text-align: left; } #home-hobbies .row .column:first-child .name { display: none; } #home-hobbies .row .column:first-child .name-mq { display: inline; } #home-timeline article:last-of-type ul li:last-of-type { margin-bottom: 0; } #home-timeline article .after-graduation { margin: -1rem 0 1rem 0; text-align: center; } #home-timeline article .column-90 { margin-top: 2rem; } #home-timeline article .events li { margin-bottom: 2rem; } #home-timeline article .events .date { display: none; } #home-timeline hr { display: block; } #home-timeline .up { display: none; } }
 
+body.photography { background-color: #15161b; }
+
 #page-photography-home footer .footer-copyright { background-image: linear-gradient(90deg, #15161b, #232428, #38393d, #232428, #15161b); color: #dddddd; font-size: 50%; font-weight: lighter; padding-bottom: 1rem; text-align: center; }
 
 #page-photography-home footer .footer-copyright p { margin-bottom: 0; }
@@ -176,6 +178,8 @@ footer .footer-links .links .twitter a:hover { color: #1689e0; }
 
 @media screen and (max-width: 80rem) { #page-photography-home main section article .container-photography .column { padding: 0 1rem; } }
 
+body.photography { background-color: #15161b; }
+
 .page-photography-gallery footer .footer-buttons { background-color: #15161b; border-bottom: 1px solid #232428; border-top: 1px solid #333333; padding: 1rem 0; text-align: center; }
 
 .page-photography-gallery footer .footer-copyright { background-image: linear-gradient(90deg, #15161b, #232428, #38393d, #232428, #15161b); color: #dddddd; font-size: 50%; font-weight: lighter; padding-bottom: 1rem; text-align: center; }
@@ -190,7 +194,7 @@ footer .footer-links .links .twitter a:hover { color: #1689e0; }
 
 .page-photography-gallery header a img { margin: 2rem 0 1rem 0; max-width: 350px; width: 100%; }
 
-.page-photography-gallery header .description { color: #bbbbbb; font-family: 'Cinzel', serif; font-size: 120%; letter-spacing: .2rem; margin: auto; padding: 1rem 0 1.5rem 0; text-transform: uppercase; }
+.page-photography-gallery header .description { color: #bbbbbb; font-family: 'Cinzel', serif; font-size: 120%; letter-spacing: .2rem; margin: auto; padding: 1rem 0 1.5rem 0; text-align: center; text-transform: uppercase; }
 
 .page-photography-gallery main { background-image: linear-gradient(90deg, #15161b, #232428, #38393d, #232428, #15161b); }
 
