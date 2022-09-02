@@ -1,4 +1,4 @@
-html { scroll-behavior: smooth; }
+html { height: 100vh; scroll-behavior: smooth; }
 
 body { color: #111111; font-family: 'Source Sans Pro', serif; font-size: 18px; font-weight: 400; scroll-behavior: smooth; }
 
