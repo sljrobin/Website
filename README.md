@@ -14,4 +14,4 @@ This repository contains the source of my website. For a live version, feel free
 <p align="center">🖋️</p>
 
 ### ©️ Copyright
-[All my pictures](https://sljrobin.org/photography/) are copyrighted (© Simon Robin | All Rights Reserved). Still, feel free to reach me for high-resolution pictures!
+[All my pictures](https://sljrobin.org/photography/) are copyrighted. Still, feel free to reach me for high-resolution pictures!
