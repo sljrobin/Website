@@ -550,11 +550,11 @@
 
       <!-- Picture 2 -->
       <div class="column">
-        <a href="/assets/img/photos/france/south-coast/blockhouse-saint-palais.jpg" title="Blockhouse Saint-Palais">
+        <a href="{{ '/assets/img/photos/france/south-coast/chateau-de-la-roche-courbon-stairs-sunrise.jpg' | prepend: site.baseurl }}" title="Château de la Roche Courbon">
           <picture>
-            <source type="image/webp" srcset="/assets/img/photos/france/south-coast/blockhouse-saint-palais-thumbnail.webp">   
-            <source type="image/jpeg" srcset="/assets/img/photos/france/south-coast/blockhouse-saint-palais-thumbnail.jpg"> 
-            <img src="/assets/img/photos/france/south-coast/blockhouse-saint-palais-thumbnail.jpg" alt="Blockhouse Saint-Palais">
+            <source type="image/webp" srcset="{{ '/assets/img/photos/france/south-coast/chateau-de-la-roche-courbon-stairs-sunrise-thumbnail.webp' | prepend: site.baseurl }}">   
+            <source type="image/jpeg" srcset="{{ '/assets/img/photos/france/south-coast/chateau-de-la-roche-courbon-stairs-sunrise-thumbnail.jpg' | prepend: site.baseurl }}"> 
+            <img src="{{ '/assets/img/photos/france/south-coast/chateau-de-la-roche-courbon-stairs-sunrise-thumbnail.jpg' | prepend: site.baseurl }}" alt="Château de la Roche Courbon">
           </picture>
         </a>
       </div>
@@ -563,6 +563,17 @@
     <!-- Pictures -->
     <div class="row">
       <!-- Picture 1 -->
+      <div class="column">
+        <a href="{{ '/assets/img/photos/france/south-coast/blockhouse-saint-palais.jpg' | prepend: site.baseurl }}" title="Blockhouse Saint-Palais">
+          <picture>
+            <source type="image/webp" srcset="{{ '/assets/img/photos/france/south-coast/blockhouse-saint-palais-thumbnail.webp' | prepend: site.baseurl }}">   
+            <source type="image/jpeg" srcset="{{ '/assets/img/photos/france/south-coast/blockhouse-saint-palais-thumbnail.jpg' | prepend: site.baseurl }}"> 
+            <img src="{{ '/assets/img/photos/france/south-coast/blockhouse-saint-palais-thumbnail.jpg' | prepend: site.baseurl }}" alt="Blockhouse Saint-Palais">
+          </picture>
+        </a>
+      </div>
+
+      <!-- Picture 2 -->
       <div class="column">
         <a href="/assets/img/photos/france/south-coast/chapelle-saint-joseph.jpg" title="Chapelle Saint-Joseph">
           <picture>
@@ -573,7 +584,7 @@
         </a>
       </div>
 
-      <!-- Picture 2 -->
+      <!-- Picture 3 -->
       <div class="column">
         <a href="/assets/img/photos/france/south-coast/the-rock-and-the-lighthouse.jpg" title="The Rock and the Lighthouse">
           <picture>
