@@ -54,7 +54,7 @@ footer .footer-links .links .twitter a:hover { color: #1689e0; }
 
 #page-home header { background-color: #001f3f; border-bottom: 2px solid #e8e8e8; margin-bottom: 3rem; text-align: center; }
 
-#page-home header img { margin: 2rem 0 1rem 0; max-width: 400px; width: 100%; }
+#page-home header img { margin: 2rem 0 1rem 0; min-height: 150px; max-width: 400px; width: 100%; }
 
 #page-home header h2 { color: #e8e8e8; font-size: 170%; margin: -1.5rem 0 1.5rem 0; }
 
@@ -152,7 +152,7 @@ body.photography { background-color: #15161b; }
 
 #page-photography-home header a { margin: auto; }
 
-#page-photography-home header a img { margin: 2rem 0 1rem 0; max-width: 350px; width: 100%; }
+#page-photography-home header a img { margin: 2rem 0 1rem 0; min-height: 150px; max-width: 350px; width: 100%; }
 
 #page-photography-home header .description { color: #bbbbbb; font-family: 'Cinzel', serif; font-size: 120%; letter-spacing: .2rem; margin: auto; padding: 1rem 0 1.5rem 0; text-align: center; text-transform: uppercase; }
 
@@ -192,7 +192,7 @@ body.photography { background-color: #15161b; }
 
 .page-photography-gallery header a { margin: auto; }
 
-.page-photography-gallery header a img { margin: 2rem 0 1rem 0; max-width: 350px; width: 100%; }
+.page-photography-gallery header a img { margin: 2rem 0 1rem 0; min-height: 150px; max-width: 350px; width: 100%; }
 
 .page-photography-gallery header .description { color: #bbbbbb; font-family: 'Cinzel', serif; font-size: 120%; letter-spacing: .2rem; margin: auto; padding: 1rem 0 1.5rem 0; text-align: center; text-transform: uppercase; }
 
